@@ -10,7 +10,7 @@
 - Production grade website will require at minimum:
   - a repository to host its code in order for developers to be able to work to improve and maintain its functionality
   - CI/CD pipeline to ensure build/test/publish steps are streamlined
-  - depends on the company's engineering practices, a separate repo or standardized infrastructure portions of the code snippets which manages the resources to be created in the platform (Cloud or on-prem)
+  - depends on the company's engineering practices, a separate repo or standardized infrastructure portions of the code snippets which manages the resources to be created in the platform (Cloud or on-prem) to host the website.
   - Cloudfront if the infrastructure is in AWS, will be one of the good choice to increase the availibility and accessibility of the website. Although personally prefer Cloudflare for the distribution and the security features that comes with it.
 
 <!---
