@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @molonfac a.k.a Wesley Lee
+- 👋 Hi, I’m Wesley Lee a.k.a @molonfac
 
 
 <!---
